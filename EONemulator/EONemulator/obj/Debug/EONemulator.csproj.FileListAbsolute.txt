@@ -1,0 +1,427 @@
+C:\Users\mati0\source\repos\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\source\repos\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\source\repos\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\source\repos\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\source\repos\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\source\repos\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\source\repos\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\source\repos\EONemulator\EONemulator\obj\Debug\EONemulator.LogWindow.resources
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v22\TSST - etap II\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v22\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\User\Desktop\TssT v2\TSST v22\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v5\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.3 (logi!)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v9.4 (logi & od Adama)\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST vX JailBreak\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11.1 Insomnia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst22\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.7 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst24\TSST v12.8 Approbation\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Debug\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Debug\EONemulator.pdb

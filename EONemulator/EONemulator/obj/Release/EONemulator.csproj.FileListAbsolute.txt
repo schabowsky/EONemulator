@@ -1,0 +1,14 @@
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Release\EONemulator.exe.config
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Release\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Release\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Release\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Release\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Release\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\bin\Release\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Release\EONemulator.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Release\EONemulator.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Release\EONemulator.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Release\EONemulator.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Release\EONemulator.exe
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Release\EONemulator.pdb
+C:\Users\mati0\Desktop\TSST v12.9.3 - Peanut Butter\TSST\EONemulator\EONemulator\obj\Release\EONemulator.csprojResolveAssemblyReference.cache
