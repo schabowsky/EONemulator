@@ -1,0 +1,18 @@
+D:\Mateusz\projekty_C#\SignalLibrary\SignalLibrary\bin\Debug\SignalLibrary.dll
+D:\Mateusz\projekty_C#\SignalLibrary\SignalLibrary\bin\Debug\SignalLibrary.pdb
+D:\Mateusz\projekty_C#\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.csprojResolveAssemblyReference.cache
+D:\Mateusz\projekty_C#\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.csproj.CoreCompileInputs.cache
+D:\Mateusz\projekty_C#\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.dll
+D:\Mateusz\projekty_C#\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\SignalLibrary\SignalLibrary\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\SignalLibrary\SignalLibrary\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\SignalLibrary\SignalLibrary\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\SignalLibrary\SignalLibrary\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\SignalLibrary\SignalLibrary\obj\Debug\SignalLibrary.pdb

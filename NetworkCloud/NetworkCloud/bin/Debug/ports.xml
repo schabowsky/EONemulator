@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<root>
+
+    <Cloud port="33001">CS1</Cloud>
+	<Cloud port="33002">CS2</Cloud>
+	<Cloud port="33003">CS3</Cloud>
+	<Cloud port="33004">CS4</Cloud>
+	<Cloud port="33005">CS5</Cloud>
+	<Cloud port="33006">CS6</Cloud>
+	<Cloud port="33007">CS7</Cloud>
+	<Cloud port="34001">CS8</Cloud>
+	<Cloud port="34002">CS9</Cloud>
+	<Cloud port="34003">CS10</Cloud>
+	<Router port="40001">OXC1</Router>
+	<Router port="40002">OXC2</Router>
+	<Router port="40003">OXC3</Router>
+	<Router port="40004">OXC4</Router>
+	<Router port="40005">OXC5</Router>
+	<Router port="40006">OXC6</Router>
+	<Router port="40007">OXC7</Router>
+	<Client port="30001">K1</Client>
+	<Client port="30002">K2</Client>
+	<Client port="30003">K3</Client>
+	
+</root>

@@ -1,0 +1,107 @@
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.dll
+D:\Mateusz\projekty_C#\NetworkCloud\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\mati0\Documents\projekty_C#\TSST\NetworkCloud_z_logami\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST - etap II\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst10\TSST v6.6.8\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST v11.3 Insomnia (mniej nic nie dziala)\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe.config
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\bin\Debug\NetworkCloud.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Form1.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM\TSST\NetworkCloud\NetworkCloud\obj\Debug\NetworkCloud.pdb

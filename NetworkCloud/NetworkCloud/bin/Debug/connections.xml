@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<root>
+
+    <Link sourceId="K1" sourcePort="10" receiverId="OXC1" receiverPort="63">CL1</Link>
+	
+	<Link sourceId="K2" sourcePort="12" receiverId="OXC4" receiverPort="159">CL3</Link>
+	
+	<Link sourceId="K3" sourcePort="15" receiverId="OXC6" receiverPort="73">L1</Link>
+	
+	<Link sourceId="OXC1" sourcePort="63" receiverId="K1" receiverPort="10">CL1</Link>
+    <Link sourceId="OXC1" sourcePort="65" receiverId="OXC7" receiverPort="121">L3</Link>
+    <Link sourceId="OXC1" sourcePort="64" receiverId="OXC2" receiverPort="111">L4</Link>
+	
+	<Link sourceId="OXC2" sourcePort="111" receiverId="OXC1" receiverPort="64">CL2</Link>
+	<Link sourceId="OXC2" sourcePort="112" receiverId="OXC3" receiverPort="89">L3</Link>
+    <Link sourceId="OXC2" sourcePort="113" receiverId="OXC4" receiverPort="157">L4</Link>
+	
+	<Link sourceId="OXC3" sourcePort="89" receiverId="OXC2" receiverPort="112">CL4</Link>
+	<Link sourceId="OXC3" sourcePort="90" receiverId="OXC6" receiverPort="72">L3</Link>
+    <Link sourceId="OXC3" sourcePort="91" receiverId="OXC4" receiverPort="158">L4</Link>
+	
+	<Link sourceId="OXC4" sourcePort="157" receiverId="OXC2" receiverPort="113">CL4</Link>
+	<Link sourceId="OXC4" sourcePort="158" receiverId="OXC3" receiverPort="91">L3</Link>
+    <Link sourceId="OXC4" sourcePort="159" receiverId="K2" receiverPort="12">L4</Link>
+	
+	<Link sourceId="OXC5" sourcePort="34" receiverId="OXC6" receiverPort="71">CL4</Link>
+	
+	<Link sourceId="OXC6" sourcePort="71" receiverId="OXC5" receiverPort="34">CL4</Link>
+	<Link sourceId="OXC6" sourcePort="72" receiverId="OXC3" receiverPort="90">L3</Link>
+    <Link sourceId="OXC6" sourcePort="73" receiverId="K3" receiverPort="15">L4</Link>
+	
+	<Link sourceId="OXC7" sourcePort="121" receiverId="OXC1" receiverPort="65">CL4</Link>
+</root>
