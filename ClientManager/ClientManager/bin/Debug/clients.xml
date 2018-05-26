@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<network>
+	<client id="K1" domainId="A" port_number="30001" cloud_port="34001" port_name="10" cpcc_port="42001"></client>
+	<client id="K2" domainId="A" port_number="30002" cloud_port="34002" port_name="12" cpcc_port="42002"></client>
+	<client id="K3" domainId="B" port_number="30003" cloud_port="34003" port_name="15" cpcc_port="42003"></client>
+</network>

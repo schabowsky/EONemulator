@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<network>
+<link id= "6" o1="A" o2="B:SN2:SN5" p1="90" p2="72" len="1200"></link>
+<link id= "9" o1="B:SN2:SN5" o2="K3" p1="73" p2="15" len="220"></link>
+</network>

@@ -1,0 +1,72 @@
+D:\Mateusz\projekty_C#\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+D:\Mateusz\projekty_C#\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+D:\Mateusz\projekty_C#\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+D:\Mateusz\projekty_C#\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+D:\Mateusz\projekty_C#\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+D:\Mateusz\projekty_C#\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Documents\projekty_C#\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Documents\projekty_C#\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Documents\projekty_C#\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Documents\projekty_C#\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Documents\projekty_C#\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Documents\projekty_C#\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst3\TSST - etap II\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst3\TSST - etap II\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst3\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst3\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst3\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst3\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst18 nie dziala\TSST v11.2 Insomnia (nic nie dziala)\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst18 nie dziala\TSST v11.2 Insomnia (nic nie dziala)\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst18 nie dziala\TSST v11.2 Insomnia (nic nie dziala)\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst18 nie dziala\TSST v11.2 Insomnia (nic nie dziala)\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst18 nie dziala\TSST v11.2 Insomnia (nic nie dziala)\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst18 nie dziala\TSST v11.2 Insomnia (nic nie dziala)\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\CommandLibrary\CommandLibrary\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\CommandLibrary\CommandLibrary\obj\Debug\CommandLibrary.pdb

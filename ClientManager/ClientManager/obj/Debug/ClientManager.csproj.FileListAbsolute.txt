@@ -1,0 +1,225 @@
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST - etap II-20180117T203401Z-001\TSST - etap II_23-30_18-01-2018\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\User\Desktop\TssT v2\TSST v4\TSST - etap II_00-55_18-01-2018\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v5\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v6.6.6\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v6.6.7\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\User\Desktop\TssT v2\TSST v6.6.8\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v9.1 Nesquik\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v9.2 Fawaffle\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\User\Desktop\TssT v2\TSST v9.5 Gelato\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\Cross\Desktop\studia\TSST\tsst15\TSST v9.7 Watermelon\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v10.0 NewHope\Pre-Alpha - TSST - multidomain\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v11.2 Insomnia (nic nie dziala)\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v12 That LRM — kopia\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe.config
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\bin\Debug\ClientManager.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.dll
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\bin\Debug\CommandLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\bin\Debug\SignalLibrary.pdb
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csprojResolveAssemblyReference.cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.MainWindow.resources
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.Properties.Resources.resources
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.GenerateResource.Cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.csproj.CoreCompileInputs.cache
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.exe
+C:\Users\mati0\Desktop\TSST v12.8 Approbation\TSST\ClientManager\ClientManager\obj\Debug\ClientManager.pdb

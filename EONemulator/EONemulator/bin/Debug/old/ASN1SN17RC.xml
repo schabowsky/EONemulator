@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<network>
+<link id= "2" o1="A:SN1:SN4" o2="A:SN1:SN17:OXC2" p1="65" p2="111" len="400"></link>
+<link id= "3" o1="A:SN1:SN17:OXC2" o2="A:SN1:SN17:OXC3" p1="112" p2="89" len="150"></link>
+<link id= "4" o1="A:SN1:SN17:OXC2" o2="A:SN1:SN17:OXC4" p1="113" p2="157" len="260"></link>
+<link id= "5" o1="A:SN1:SN17:OXC3" o2="A:SN1:SN17:OXC4" p1="91" p2="158" len="450"></link>
+<link id= "6" o1="A:SN1:SN17:OXC3" o2="B" p1="90" p2="72" len="1200"></link>
+<link id= "7" o1="A:SN1:SN17:OXC4" o2="K2" p1="159" p2="12" len="340"></link>
+</network>
